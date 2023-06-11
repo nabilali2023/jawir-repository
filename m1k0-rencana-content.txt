@@ -1,6 +1,8 @@
 RENCANA KONTEN M1K0
 
 -Javascript
+ * ES6
+ * Framework Javascript
 -PHP frameworks
 -interview
 -vlog
