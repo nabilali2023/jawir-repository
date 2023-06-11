@@ -3,6 +3,7 @@ RENCANA KONTEN M1K0
 -Javascript
  * ES6
  * Framework Javascript
+-Struktur data dasar
 -PHP frameworks
--interview
--vlog
+-Interview
+-Vlog
